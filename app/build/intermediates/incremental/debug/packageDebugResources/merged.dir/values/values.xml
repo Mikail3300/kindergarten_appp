@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="group_names">
+        <item>Ясельная группа</item>
+        <item>Младшая группа</item>
+        <item>Средняя группа</item>
+        <item>Старшая группа</item>
+        <item>Подготовительная группа</item>
+    </string-array>
+    <string-array name="teacher_names">
+        <item>Елена Русу</item>
+        <item>Татьяна Ботнарь</item>
+        <item>Оксана Морару</item>
+        <item>Виктория Кожокарь</item>
+        <item>Наталья Гуцу</item>
+    </string-array>
+    <color name="accent">#F49F74</color>
+    <color name="background">#F7F9FC</color>
+    <color name="card_stroke">#D9E1F2</color>
+    <color name="field_bg">#FFFFFF</color>
+    <color name="primary">#4E7BD9</color>
+    <color name="primary_dark">#24437C</color>
+    <color name="text_secondary">#5E6B82</color>
+    <dimen name="body_text_size">15sp</dimen>
+    <dimen name="card_radius">18dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="large_padding">24dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="subtitle_text_size">18sp</dimen>
+    <dimen name="tiny_padding">4dp</dimen>
+    <dimen name="title_text_size">22sp</dimen>
+    <string name="about_app">О приложении</string>
+    <string name="about_text">Приложение демонстрирует SQLite, Intents, Parcelable, RecyclerView, меню, анимацию, DatePicker и TimePicker.</string>
+    <string name="activity_level_default">Уровень активности: 50</string>
+    <string name="activity_level_template">Уровень активности: %1$d</string>
+    <string name="add_child">Добавить ребенка</string>
+    <string name="add_child_title">Добавление записи</string>
+    <string name="allergies">Есть аллергия</string>
+    <string name="app_logo">Логотип приложения</string>
+    <string name="app_name">Учет детей в садике</string>
+    <string name="birth_date_template">Дата рождения: %1$s</string>
+    <string name="boy">Мальчик</string>
+    <string name="cancel">Отмена</string>
+    <string name="child_avatar">Аватар ребенка</string>
+    <string name="child_name">Имя ребенка</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_dialog_message">Удалить запись о ребенке: %1$s?</string>
+    <string name="delete_dialog_title">Подтверждение удаления</string>
+    <string name="delete_small">Удалить</string>
+    <string name="deleted_successfully">Запись успешно удалена</string>
+    <string name="detail_image">Изображение ребенка</string>
+    <string name="detail_title">Карточка ребенка</string>
+    <string name="edit">Редактировать</string>
+    <string name="edit_child_title">Редактирование записи</string>
+    <string name="edit_small">Изменить</string>
+    <string name="empty_list">Записей пока нет. Добавьте первую запись.</string>
+    <string name="export_failed">Не удалось сохранить файл</string>
+    <string name="export_success">Файл сохранен: %1$s</string>
+    <string name="export_to_file">Экспорт в файл</string>
+    <string name="fill_required_fields">Заполните обязательные поля и выберите дату/время</string>
+    <string name="form_illustration">Иллюстрация формы</string>
+    <string name="form_title">Форма ребенка</string>
+    <string name="gender_template">Пол: %1$s</string>
+    <string name="girl">Девочка</string>
+    <string name="group_label">Группа</string>
+    <string name="group_template">Группа: %1$s</string>
+    <string name="header_subtitle">Дети, родители, группы и воспитательницы</string>
+    <string name="header_title">Электронный учет воспитанников</string>
+    <string name="nap_off">Тихий час: нет</string>
+    <string name="nap_on">Тихий час: да</string>
+    <string name="no_notes">нет</string>
+    <string name="not_selected">Не выбрано</string>
+    <string name="notes">Примечание</string>
+    <string name="notes_template">Примечание: %1$s</string>
+    <string name="parent_name">Имя родителя</string>
+    <string name="parent_template">Родитель: %1$s</string>
+    <string name="pickup_time_template">Время ухода: %1$s</string>
+    <string name="save">Сохранить</string>
+    <string name="saved_successfully">Запись успешно сохранена</string>
+    <string name="search_hint">Поиск по имени, родителю, группе или воспитательнице</string>
+    <string name="select_birth_date">Дата рождения</string>
+    <string name="select_pickup_time">Время ухода</string>
+    <string name="sort">Сортировка</string>
+    <string name="sort_by_group">По группе</string>
+    <string name="sort_by_name">По имени</string>
+    <string name="teacher_name">Воспитательница</string>
+    <string name="teacher_template">Воспитательница: %1$s</string>
+    <style name="Theme.KindergartenAccounting" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary_dark</item>
+    </style>
+</resources>

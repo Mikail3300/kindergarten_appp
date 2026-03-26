@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="group_names">
+        <item>Ясельная группа</item>
+        <item>Младшая группа</item>
+        <item>Средняя группа</item>
+        <item>Старшая группа</item>
+        <item>Подготовительная группа</item>
+    </string-array>
+
+    <string-array name="teacher_names">
+        <item>Елена Русу</item>
+        <item>Татьяна Ботнарь</item>
+        <item>Оксана Морару</item>
+        <item>Виктория Кожокарь</item>
+        <item>Наталья Гуцу</item>
+    </string-array>
+</resources>

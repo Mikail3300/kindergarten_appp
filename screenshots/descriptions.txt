@@ -1,0 +1,3 @@
+01_main_screen.png — главный экран: строка поиска, кнопка добавления и список детей (RecyclerView).
+02_add_edit_screen.png — форма добавления/редактирования: EditText, Spinner, AutoCompleteTextView, DatePicker, TimePicker, CheckBox, ToggleButton, RadioButton, SeekBar.
+03_detail_screen.png — карточка ребенка: подробная информация, редактирование и удаление.

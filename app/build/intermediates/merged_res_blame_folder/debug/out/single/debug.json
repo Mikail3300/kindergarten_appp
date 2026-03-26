@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/anim_slide_out_right.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/layout_item_child.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/layout/item_child.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/layout_activity_child_detail.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/layout/activity_child_detail.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/anim_slide_in_right.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/anim_fade_scale_in.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/anim/fade_scale_in.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/anim_fade_out.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/layout_activity_add_edit_child.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/layout/activity_add_edit_child.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/anim_gentle_pulse.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/anim/gentle_pulse.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/drawable_ic_back.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/drawable_ic_kindergarten.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/drawable/ic_kindergarten.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/drawable_bg_field.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/drawable/bg_field.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/drawable_ic_child_female.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/drawable/ic_child_female.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/drawable_ic_child_male.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/drawable/ic_child_male.xml"
+    },
+    {
+        "merged": "com.example.kindergarten.app-merged_res-32:/menu_main_menu.xml.flat",
+        "source": "com.example.kindergarten.app-main-34:/menu/main_menu.xml"
+    }
+]
